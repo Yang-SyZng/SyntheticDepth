@@ -1,0 +1,1 @@
+python generate.py -s path/to/data --data_device cpu
